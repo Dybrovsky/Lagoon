@@ -92,12 +92,7 @@ h2 {
   display: inline-block;
 }
 
-.div15 {
-  /* display: flex; */
-  /* border: springgreen 2px solid; */
-  /* margin-left: 200px; */
-  /* padding-left: 150px; */
-}
+
 
 .discount {
   /* border: solid 2px; */
@@ -178,13 +173,13 @@ background-image: url(/IMG/Rectangle\ 15.jpg);
 .service img {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    width="573px" height="165px"
+    /* width: "573px";
+    height: "165px"; */
 
 }
 
 .service p {
     margin: 10px;
-
 }
 
 .service {
