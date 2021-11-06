@@ -37,6 +37,8 @@ a {
   transition: 1s;
   /* outline: blue 1px solid; */
   white-space: nowrap;
+  text-align: center;
+  
   
 }
 
@@ -76,10 +78,14 @@ h2 {
   /* border: tomato 2px solid; */
 }
 
-/* .logoimg:hover {
+.logoimg {
+  transition: transform 1s;
+}
+
+.logoimg:hover {
   transform: rotate(360deg);
-  border: aqua 2px solid;
-} */
+  /* border: aqua 2px solid; */
+}
 
 .phone {
   /* border: rgb(29, 53, 160) 3px solid; */
