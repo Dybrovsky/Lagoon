@@ -131,7 +131,7 @@ h2 {
 }
 
 .discount-left-up {
-  background-image: url(https://imageup.ru/img297/3895741/rectangle-14.jpg);
+  background-image: url(/Lagoon/Rectangle\ 14.jpg);
   width: 573px;
   height: 258px;
   color: white;
@@ -148,12 +148,12 @@ h2 {
   color: white;
   font-size: 40px;
   padding: 40px 234px 138px 40px;
-  background-image: url(/Rectangle\ 15.jpg);
+  background-image: url(/Lagoon/Rectangle\ 15.jpg);
   border-radius: 15px;
 }
 
 .discount-right {
-  background-image: url(/33\ 1.jpg);
+  background-image: url(/Lagoon/33\ 1.jpg);
   height: 540px;
   width: 573px;
   border-radius: 15px;
